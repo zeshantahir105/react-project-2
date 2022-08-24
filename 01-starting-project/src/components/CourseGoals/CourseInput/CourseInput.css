@@ -22,3 +22,17 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
+
+.hidden{
+  display: none;
+}
+.red {
+  color: red; 
+}
+.red-bordered{
+  border: 2px solid red!important;
+}
+.error-msg{
+  font-size: 0.7rem;
+  font-weight: 600;
+}
